@@ -1,3 +1,4 @@
+"use client"
 import React, { useState } from "react";
 import Carousel from "react-bootstrap/Carousel";
 import { items } from "../public/items.json";
